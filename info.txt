@@ -1,19 +1,2 @@
-Microsoft Windows [Version 10.0.22621.2134]
-(c) Microsoft Corporation. All rights reserved.
-
-C:\Users\gupta>git status
-fatal: not a git repository (or any of the parent directories): .git
-
-C:\Users\gupta>cd newgit
-
-C:\Users\gupta\newgit>git branch
-* Branch1
-  master
-
-C:\Users\gupta\newgit>git checkout master
-Switched to branch 'master'
-Your branch is up to date with 'origin/master'.
-
-C:\Users\gupta\newgit>git branch
-  Branch1
-* master
+this is a new bracnh 
+Made by me
